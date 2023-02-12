@@ -164,7 +164,7 @@ disable_ligatures never
 
 #: Cursor customization {{{
 
-# cursor #cccccc
+ cursor #ffffff
 
 #: Default cursor color
 
@@ -188,7 +188,7 @@ disable_ligatures never
 
 #: Defines the thickness of the underline cursor (in pts)
 
-# cursor_blink_interval -1
+# cursor_blink_interval 0
 
 #: The interval (in seconds) at which to blink the cursor. Set to zero
 #: to disable blinking. Negative values mean use system default. Note
@@ -553,7 +553,7 @@ disable_ligatures never
 #: values set top, horizontal and bottom. Four values set top, right,
 #: bottom and left.
 
-window_padding_width 4
+# window_padding_width 4
 
 #: The window padding (in pts) (blank area between the text and the
 #: window border). A single value sets all four sides. Two values set
@@ -1471,6 +1471,6 @@ editor .
 
 
 # BEGIN_KITTY_THEME
-# Alabaster Dark
+# Bright Lights
 include current-theme.conf
 # END_KITTY_THEME
