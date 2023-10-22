@@ -1,8 +1,9 @@
 # Kitty Dotfiles
 
-To have the corrects fonts install:
-    - JetBrains Mono (The normals)
-    - Symbols Nerd Fonts
+To have the correct fonts install:
+
+- JetBrains Mono (The normal)
+- Symbols Nerd Fonts
 
 This is to avoid to download all the time fonts patched with nerd fonts icons,
 just change the font and Nerd Font Icon will work
