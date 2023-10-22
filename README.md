@@ -22,5 +22,5 @@ mv ~/.config/kitty ~/.config/kitty.old
 Clone this repo to ~/.config/kitty/
 
 ```bash
-git clone https://github.dev/KevenGoncalves/kitty-dotfiles ~/.config/kitty/
+git clone https://github.com/KevenGoncalves/kitty-dotfiles ~/.config/kitty/
 ```
